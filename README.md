@@ -11,6 +11,7 @@
 > * Project 3 Materials
 > 	*  ...
 
-![Project Image](Project%202%20Materials/Image.png)
+![Project Image](https://raw.githubusercontent.com/AsyqD/UIUXportfolio/main/Project%202%20Materials/Image.png)
+
 
 ![Project Image](Project%203%20Materials/Image.png)
