@@ -1,5 +1,5 @@
 
-> [!example] 
+> [] 
 > * Project 1 Materials
 > 	* file1
 > 	* file2
@@ -11,7 +11,6 @@
 > * Project 3 Materials
 > 	*  ...
 
-![Alt text](Project 2 Materials/Image.png)
+![alt text](https://github.com/[AsyqD]/[UIUXportfolio]/blob/[main]/Project 2 Materials/Image.png?raw=true)
 
-
-![Alt text](Project 3 Materials/Image.png)
+![alt text](https://github.com/[AsyqD]/[UIUXportfolio]/blob/[main]/Project 3 Materials/Image.png?raw=true)
