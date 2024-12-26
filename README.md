@@ -11,6 +11,6 @@
 > * Project 3 Materials
 > 	*  ...
 
-![Project Image](Project%202%20Materials/Image.png)
+![alt text](https://github.com/AsyqD/UIUXportfolio/blob/main/Project%202%20materials/Image.png)
 
-![Project Image](Project%203%20Materials/Image.png)
+![alt text](https://github.com/AsyqD/UIUXportfolio/blob/main/Project%202%20materials/Image.png)
