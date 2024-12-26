@@ -11,7 +11,7 @@
 > * Project 3 Materials
 > 	*  ...
 
-![Project Image](https://raw.githubusercontent.com/AsyqD/UIUXportfolio/main/Project%202%20Materials/Image.png)
+![alt text](https://github.com/AsyqD/reponaUIUXportfolio/blob/main/Image.png?raw=true)
 
 
 ![Project Image](Project%203%20Materials/Image.png)
