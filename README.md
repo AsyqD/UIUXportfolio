@@ -13,5 +13,4 @@
 
 ![Project Image](Project%202%20Materials/Image.png)
 
-
-![alt text](https://github.com/[AsyqD]/[UIUXportfolio]/blob/[main]/Project%203%20Materials/Image.png?raw=true)
+![Project Image](Project%203%20Materials/Image.png)
