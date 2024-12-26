@@ -1,36 +1,3 @@
-# Materials from Projects
-## Structure of a GitHub repo:
-
-> * Project 1 Materials
-> 	* Reflection 1
-> * Project 2 Materials
-> 	* Image.png
-> 	* Project 2 Documentation.pdf
-> 	* Project 2 Interview Materials.docs
-> 	* Project 2 Presentation.pdf
-> 	* Project 2 Team Members.txt
-> * Project 3 Materials
-> 	* Image.png
-> 	* Project 3 Documentation.pdf
-> 	* Project 3 Presentation.mov
-> 	* Project 3Team Members.txt
-
-# Completed Projects
-
-## Project 2: SDU Market
----
-![alt text](https://github.com/AsyqD/UIUXportfolio/blob/main/Project%202%20materials/Image.png)
-
-View Materials of the Project 2 in `Project 2 Materials/` folder
-
-## Project 3: Wake APP!!!
----
-![alt text](https://github.com/AsyqD/UIUXportfolio/blob/main/Project%203%20materials/Image.png)
-
-View Materials of the Project 3 in `Project 3 Materials/` folder
-
----
-
 # **Reflection**
 
 ## **My Role in Each Project**
