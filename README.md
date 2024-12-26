@@ -1,5 +1,8 @@
 ## Reflection for project 1
+
+* [[#Data Collection Interviews]]
 ### Investigating Delivery Robot Implementation and Challenges
+
 
 Before delving into the design process, I would begin by investigating potential areas where delivery robots could be implemented effectively. This includes analyzing various use cases and environments to understand the needs they can address. Once implementation opportunities are identified, I would shift focus to investigating potential challenges, such as user acceptance, accessibility, and technical limitations, to ensure the design process is both relevant and comprehensive.
 
